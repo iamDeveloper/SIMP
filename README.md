@@ -95,7 +95,7 @@ Though there are many possible configurations, out of the box SIMP provides:
     * TFTP
 
 ## Copyrights
-> All materials are copyright their respective owners unless otherwise noted.
+> All materials copyright of their respective owners unless otherwise noted.
 >
 > Per Section 105 of the Copyright Act of 1976, these works are not entitled to
 > domestic copyright protection under US Federal law.
